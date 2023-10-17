@@ -3,7 +3,6 @@
 - 🌱 I’m self taught in Java and Flutter, and I have some knowledge with C++ and Python.
 - 💞️ I’m looking to collaborate on any projects that need help. I am eager to learn new things if it is necessary.
 - 📫 You can reach me through my email (gb.hoang02@gmail.com) or my Linkedin (https://www.linkedin.com/in/bao-hoang-309ab3200/)
-- 
 
 <!---
 BTRoyal612/BTRoyal612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
